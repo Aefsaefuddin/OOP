@@ -1,4 +1,4 @@
-# **Latihan OOP di bahasa python**                
+# **Latihan OOP di Bahasa PYTHON**                
 ```sh
 Nama          : Aef Saefuddin             
 NIM           : 312110521              
